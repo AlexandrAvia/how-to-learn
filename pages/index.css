@@ -6,3 +6,6 @@
 @import url(../blocks/header/__subtitle/header__subtitle.css);
 @import url(../blocks/header/__main-illustration/header__main-illustration.css);
 @import url(../blocks/header/__square-pic/header__square-pic.css);
+@import url(../blocks/section/__title/section__title.css);
+@import url(../blocks/section/__subtitle/section__subtitle.css);
+@import url(../blocks/techniques/techniques.css);
